@@ -6,7 +6,7 @@
     "textColor": "#ffffff"
   },
   "loginDialog": {
-    "title": "Welcome To SENSI",
+    "title": "Welcome To SENSI 2.0",
     "subtitle": "If you don't have a key, contact Admin. Otherwise, enter your key and press Login.",
     "loginButtonText": "Login",
     "adminButtonText": "Get Key",
@@ -27,12 +27,12 @@
       "interval": "1week",
       "toast": "Welcome back, VIP Legend! 👑"
     },
-    "TRIAL-KEY":KMRAFI {
+    "TRIAL-KEY": {
       "expiry": "3d",
       "interval": "everytime",
       "toast": "3-Day Trial Started ⏳"
     },
-    "1-HOUR-TEST": {
+    "1-HOUR-TEST":HB {
       "expiry": "1h",
       "interval": "everytime",
       "toast": "1 Hour Test Active 🕐"
