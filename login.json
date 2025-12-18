@@ -27,7 +27,7 @@
       "interval": "1week",
       "toast": "Welcome back, VIP Legend! 👑"
     },
-    "TRIAL-KEY": {
+    "TRIAL-KEY":KMRAFI {
       "expiry": "3d",
       "interval": "everytime",
       "toast": "3-Day Trial Started ⏳"
