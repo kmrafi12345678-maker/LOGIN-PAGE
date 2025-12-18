@@ -6,7 +6,7 @@
     "textColor": "#ffffff"
   },
   "loginDialog": {
-    "title": "Welcome To DPMods",
+    "title": "Welcome To SENSI",
     "subtitle": "If you don't have a key, contact Admin. Otherwise, enter your key and press Login.",
     "loginButtonText": "Login",
     "adminButtonText": "Get Key",
