@@ -32,7 +32,7 @@
       "interval": "everytime",
       "toast": "3-Day Trial Started ⏳"
     },
-    "1-HOUR-TEST":HB {
+    "1-HOUR-TEST": {HN
       "expiry": "1h",
       "interval": "everytime",
       "toast": "1 Hour Test Active 🕐"
